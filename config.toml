@@ -1,4 +1,4 @@
-baseURL = "/T32-spring-2021/"
+baseURL = "uf-repro.github.io/T32-spring-2021/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
