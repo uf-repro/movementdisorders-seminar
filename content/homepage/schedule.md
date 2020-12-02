@@ -26,18 +26,15 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <table>
 <thead>
 <tr>
-<th colspan = 3><center><em>Talk Title</em></center></th>
-<tr>
 <th>Date & Time</th>
 <th>Speaker</th>
 <th>Registration</th>
 </tr>
+<tr>
+<th colspan = 3><center><em>Talk Title</em></center></th>
+</tr>
 </thead>
 <tbody>
-<tr>
-<td colspan=3><center>
-<em>Why & how to embrace Open Science</em>
-</center></td>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-01-15/09:00">2021-01-15 0900 ET</a></td>
 <td>Emily Sena</td>
@@ -45,8 +42,9 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=3><center>
-<em>The Turing Way: Empower researchers in reproducible, ethical, inclusive and collaborative science</em>
+<em>Why & how to embrace Open Science</em>
 </center></td>
+</tr>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-02-12/09:00">2021-02-12 0900 ET</a></td>
 <td>Kirstie Whitaker</td>
@@ -54,8 +52,9 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=3><center>
-<em>Translational research – Lost in the garden of the forking paths</em>
+<em>The Turing Way: Empower researchers in reproducible, ethical, inclusive and collaborative science</em>
 </center></td>
+</tr>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-03-12/09:00">2021-03-12 0900 ET</a></td>
 <td>Ulrich Dirnagl</td>
@@ -63,8 +62,9 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>Translational research – Lost in the garden of the forking paths</em>
 </center></td>
+</tr>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-04-09/09:00">2021-04-09 0900 ET</a></td>
 <td>Malcolm Macleod</td>
@@ -74,6 +74,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <td colspan=3><center>
 <em>TBD</em>
 </center></td>
+</tr>
 <tr>
 <td>2021-06-11</td>
 <td>Maryann Martone</td>
@@ -83,10 +84,16 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <td colspan=3><center>
 <em>TBD</em>
 </center></td>
+</tr>
 <tr>
 <td>2021-09-24</td>
 <td>Russ Poldrack</td>
 <td><a href="">TBD</a></td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>TBD</em>
+</center></td>
 </tr>
 </tbody>
 </table>
