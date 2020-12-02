@@ -1,4 +1,4 @@
-baseURL = "/T32-spring-2021/"
+baseURL = "/movementdisorders-seminar/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -21,10 +21,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Hao Ye"
+    copyright = "© UF"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = ""
+    description = "Rigor and Reproducibility Seminar Series - UF Center for Movement Disorders and Neurorestoration"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
