@@ -10,8 +10,6 @@ header_menu: true
 ##### Stroke Association Kirby Laing Foundation Senior Lecturer, University of Edinburgh
 ##### Editor-in-Chief, BMJ Open Science
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
-
 ---
 
 ![Kirstie Jane Whitaker]()
@@ -29,8 +27,6 @@ Kirstie Whitaker leads the Tools, Practices and Systems Research Programme at [T
 ##### Director, Department of Experimental Neurology, Charité Universitätsmedizin Berlin
 ##### Founding Director, BIG Quest Center for Transforming Biomedical Research
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
-
 ---
 
 ![Malcolm Macleod]()
@@ -39,16 +35,12 @@ In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio e
 ##### Professor of Neurology and Translational Neuroscience, University of Edinburgh
 ##### Academic Lead for Research Improvement and Research Integrity, University of Edinburgh
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
-
 ---
 
 ![Maryann Martone]()
 
 #### Maryann Martone
 ##### Professor Emeritus, Neurosciences, University of California San Diego
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
 
 ---
 
@@ -57,5 +49,3 @@ In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio e
 #### Russ Poldrack
 ##### Albert Ray Lang Professor of Psychology, Stanford University
 ##### Director, Stanford Center for Reproducible Neuroscience
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
