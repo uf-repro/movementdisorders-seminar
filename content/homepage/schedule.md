@@ -54,7 +54,7 @@ Seminars will generally take place at *900 am ET* on the second Friday every mon
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>Translational research – Lost in the garden of the forking paths</em>
 </center></td>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-03-12/09:00">2020-03-12 0900 ET</a></td>
