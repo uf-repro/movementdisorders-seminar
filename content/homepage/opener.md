@@ -1,6 +1,8 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+This seminar series is hosted by the [UF Center for Movement Disorders and Neurorestoration](https://movementdisorders.ufhealth.org/) and focuses on rigor and reproducibility topic for the [pre-doctoral training program](https://movementdisorders.ufhealth.org/training/ninds-t32-pre-doctoral-training-program-in-movement-disorders/).
+
+This program and seminar series is funded by the National Institute of Neurological Disorders and Stroke (NINDS) through [T32 NS082128](https://grantome.com/grant/NIH/T32-NS082168-05), awarded to PIs Dawn Bowers and David E. Vaillancourt.
