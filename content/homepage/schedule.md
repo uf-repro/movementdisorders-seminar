@@ -92,7 +92,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>Building a culture of computational reproducibility</em>
 </center></td>
 </tr>
 </tbody>
