@@ -17,7 +17,7 @@ Emily is the inaugural Editor-in-Chief of BMJ Open Science, and convenor of CAMA
 
 ---
 
-![Kirstie Whitaker]()
+![Kirstie Whitaker](images/kirstie_whitaker.jpg)
 
 #### Kirstie Whitaker
 ##### Programme Lead for Tools, Practices and Systems, The Alan Turing Institute
