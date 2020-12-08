@@ -26,11 +26,13 @@ Kirstie Whitaker leads the Tools, Practices and Systems Research Programme at [T
 
 ---
 
-![Ulrich Dirnagl]()
+![Ulrich Dirnagl](images/ulrich_dirnagl.jpg)
 
 #### Ulrich Dirnagl
 ##### Director, Department of Experimental Neurology, Charité Universitätsmedizin Berlin
 ##### Founding Director, BIG Quest Center for Transforming Biomedical Research
+
+In preclinical as well as in clinical studies Ulrich Dirnagl’s research has revealed pathobiology which impact on the outcome after a stroke. These include deleterious as well as endogenous protective mechanisms, as interactions of the brain with other systems of the body after it has been injured. Several of these mechanism can be therapeutically targeted, clinical trials are under way. In addition, through meta-research he was able to identify opportunities for improving research practice and to obtain evidence for the impact of interventions targeted to increase the value of biomedical research. At the Charité Universitätsmedizin Berlin Ulrich Dirnagl serves as Director of the Department of Experimental Neurology. Since 2017 he is also the founding director of the QUEST Center for Transforming Biomedical Research at the Berlin Institute of Health. QUEST aims at overcoming the roadblocks in translational medicine by increasing the value and impact of biomedical research through maximizing the quality, reproducibility, generalizability, and validity of research.
 
 ---
 
