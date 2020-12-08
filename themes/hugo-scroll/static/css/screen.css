@@ -694,7 +694,7 @@ a.fn-item.active {
 /* Keep large images within the bounds of the post-width */
 .post-content img {
   display: block;
-  max-width: 100%;
+  max-width: 400px;
   margin: 0 auto;
 }
 

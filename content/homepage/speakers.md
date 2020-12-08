@@ -4,15 +4,20 @@ weight: 3
 header_menu: true
 ---
 
-![Emily Sena]()
+![Emily Sena](images/emily_sena.jpg)
 
 #### Emily Sena
 ##### Stroke Association Kirby Laing Foundation Senior Lecturer, University of Edinburgh
 ##### Editor-in-Chief, BMJ Open Science
 
+Dr Sena is a Stroke Association Kirby Laing Foundation Senior Non-Clinical Lecturer in the Centre for Clinical Brain Sciences at the University of Edinburgh.
+She completed her undergraduate and postdoctoral degrees in Pharmacology and Neuroscience at the Universities of Edinburgh and Melbourne.
+She is specialised in the validity of preclinical research and a passionate advocate for open science. Her research interests are in the use of meta-research approaches (research on research) to drive improvements in the validity, transparency and reproducibility of primary research using animal models of human diseases. Her work has informed laboratory practice guidelines, editorial policy and clinical trials design.
+Emily is the inaugural Editor-in-Chief of BMJ Open Science, and convenor of CAMARADES - an international collaboration that supports, advances and undertakes systematic reviews of preclinical research.
+
 ---
 
-![Kirstie Jane Whitaker]()
+![Kirstie Whitaker]()
 
 #### Kirstie Whitaker
 ##### Programme Lead for Tools, Practices and Systems, The Alan Turing Institute
