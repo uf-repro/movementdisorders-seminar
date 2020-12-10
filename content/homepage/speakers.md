@@ -44,10 +44,12 @@ In preclinical as well as in clinical studies Ulrich Dirnagl’s research has re
 
 ---
 
-![Maryann Martone]()
+![Maryann Martone](images/maryann_martone.jpg)
 
 #### Maryann Martone
 ##### Professor Emeritus, Neurosciences, University of California San Diego
+
+Maryann Martone received her BA from Wellesley College in Biological Psychology and Ancient Greek and her Ph. D. in Neuroscience from the University of California, San Diego. She is a professor Emerita at UCSD, but still maintains an active laboratory, the FAIR Data Informatics Lab.   She started her career as a neuroanatomist, specializing in light and electron microscopy, but her main research for the past 15 years focused on informatics for neuroscience, i.e., neuroinformatics.  She led the Neuroscience Information Framework (NIF), a national project to establish a uniform resource description framework for neuroscience, and the NIDDK Information Network (dknet), a portal for connecting researchers in digestive, kidney and metabolic disease to data, tools, and materials.  She just completed 5 years as Editor-in-Chief of Brain and Behavior, an open access journal.  Dr. Martone is past President of FORCE11, an organization dedicated to advancing scholarly communication and e-scholarship.  She completed two years as the chair of the Council on Training, Science and Infrastructure for the International Neuroinformatics Coordinating Facility and is now the chair of the Governing Board.  Since retiring, she served as the Director of Biological Sciences for Hypothesis, a technology non-profit developing an open annotation layer for the web (2015-2018) and founded SciCrunch, a technology start up based on technologies developed by NIF and dkNET.
 
 ---
 
