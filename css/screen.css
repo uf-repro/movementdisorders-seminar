@@ -275,6 +275,10 @@ blockquote p {
   font-size: 20px;
 }
 
+.caption {
+  text-align: center;
+}
+
 blockquote small {
   display: inline-block;
   margin: 0.8em 0 0.8em 1.5em;
