@@ -36,11 +36,13 @@ In preclinical as well as in clinical studies Ulrich Dirnagl’s research has re
 
 ---
 
-![Malcolm Macleod]()
+![Malcolm Macleod](images/malcolm_macleod.jpg)
 
 #### Malcolm Macleod
 ##### Professor of Neurology and Translational Neuroscience, University of Edinburgh
 ##### Academic Lead for Research Improvement and Research Integrity, University of Edinburgh
+
+Malcolm Macleod is Professor of Neurology and Translational Neurosciences and Academic Lead for Research Improvement and Research Integrity at the University of Edinburgh. With David Howells he co-founded the CAMARADES collaboration in 2005, is Academic Coordinator of the European Quality in Preclinical Data IMI consortium and a member of the UK Reproducibility Network steering committee. His current research interests relate to providing evidence for the effectiveness (or not) of strategies which might be adopted by funders, journals and institutions to improve the quality of their research. 
 
 ---
 
