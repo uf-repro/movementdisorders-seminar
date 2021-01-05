@@ -48,7 +48,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-02-12/09:00">2021-02-12 0900 ET</a></td>
 <td>Kirstie Whitaker</td>
-<td><a href="https://ufl.libcal.com/event/7406513">register here</a></td>
+<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-02-12_Kirstie-Whitaker-seminar">register here</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -58,7 +58,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-03-12/09:00">2021-03-12 0900 ET</a></td>
 <td>Ulrich Dirnagl</td>
-<td><a href="">TBD</a></td>
+<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-03-12_Ulrich-Dirnagl-seminar">register here</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -68,7 +68,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-04-09/09:00">2021-04-09 0900 ET</a></td>
 <td>Malcolm Macleod</td>
-<td><a href="">TBD</a></td>
+<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-04-09_Malcolm-Macleod-seminar">register here</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
