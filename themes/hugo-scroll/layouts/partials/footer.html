@@ -2,7 +2,7 @@
   <div class="inner">
     {{ with .Site.Params.copyright }}
       <section class="copyright">{{ . | markdownify }}</section>{{ end }}
-
+  (unless otherwise specified, photos and biography text are copyrighted by the respective speakers and used with permission)
 
     <section>{{ echoParam .Site.Params "hidebyline" }}</section>
     {{ if ne .Site.Params.hidedesignbyline true }}
