@@ -37,7 +37,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-01-15/09:00">2021-01-15 0900 ET</a></td>
-<td>Emily Sena</td>
+<td><a href="#emily-sena">Emily Sena</a></td>
 <td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-01-15_Emily-Sena-seminar">register here</a></td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-02-12/09:00">2021-02-12 0900 ET</a></td>
-<td>Kirstie Whitaker</td>
+<td><a href="#kirstie-whitaker">Kirstie Whitaker</a></td>
 <td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-02-12_Kirstie-Whitaker-seminar">register here</a></td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-03-12/09:00">2021-03-12 0900 ET</a></td>
-<td>Ulrich Dirnagl</td>
+<td><a href="#ulrich-dirnagl">Ulrich Dirnagl</a></td>
 <td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-03-12_Ulrich-Dirnagl-seminar">register here</a></td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-04-09/09:00">2021-04-09 0900 ET</a></td>
-<td>Malcolm Macleod</td>
+<td><a href="#malcolm-macleod">Malcolm Macleod</a></td>
 <td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-04-09_Malcolm-Macleod-seminar">register here</a></td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td>2021-06-11</td>
-<td>Maryann Martone</td>
+<td><a href="#maryann-martone">Maryann Martone</a></td>
 <td><a href="">TBD</a></td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td>2021-09-24</td>
-<td>Russ Poldrack</td>
+<td><a href="#russ-poldrack">Russ Poldrack</a></td>
 <td><a href="">TBD</a></td>
 </tr>
 <tr>

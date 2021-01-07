@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Emily Sena](images/emily_sena.jpg)
+<img src = "images/emily_sena.jpg" id="emily-sena" alt = "A portrait photo of Emily Sena">
 
 #### Emily Sena
 ##### Stroke Association Kirby Laing Foundation Senior Lecturer, University of Edinburgh
@@ -17,7 +17,7 @@ Emily is the inaugural Editor-in-Chief of BMJ Open Science, and convenor of CAMA
 
 ---
 
-![Kirstie Whitaker](images/kirstie_whitaker.jpg)
+<img src = "images/kirstie_whitaker.jpg" id="kirstie-whitaker" alt = "A portrait photo of Kirstie Whitaker">
 
 #### Kirstie Whitaker
 ##### Programme Lead for Tools, Practices and Systems, The Alan Turing Institute
