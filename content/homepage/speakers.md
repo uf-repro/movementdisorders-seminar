@@ -26,7 +26,7 @@ Kirstie Whitaker leads the Tools, Practices and Systems Research Programme at [T
 
 ---
 
-![Ulrich Dirnagl](images/ulrich_dirnagl.jpg)
+<img src = "images/ulrich_dirnagl.jpg" id="ulrich-dirnagl" alt = "A portrait photo of Ulrich Dirnagl">
 
 #### Ulrich Dirnagl
 ##### Director, Department of Experimental Neurology, Charité Universitätsmedizin Berlin
@@ -36,7 +36,7 @@ In preclinical as well as in clinical studies Ulrich Dirnagl’s research has re
 
 ---
 
-![Malcolm Macleod](images/malcolm_macleod.jpg)
+<img src = "images/malcolm_macleod.jpg" id="malcolm-macleod" alt = "A portrait photo of Malcolm Macleod">
 
 #### Malcolm Macleod
 ##### Professor of Neurology and Translational Neuroscience, University of Edinburgh
@@ -46,7 +46,7 @@ Malcolm Macleod is Professor of Neurology and Translational Neurosciences and Ac
 
 ---
 
-![Maryann Martone](images/maryann_martone.jpg)
+<img src = "images/maryann_martone.jpg" id="maryann-martone" alt = "A portrait photo of Maryann Martone">
 
 #### Maryann Martone
 ##### Professor Emeritus, Neurosciences, University of California San Diego
@@ -55,7 +55,7 @@ Maryann Martone received her BA from Wellesley College in Biological Psychology 
 
 ---
 
-![Russ Poldrack](images/russ_poldrack.jpg)
+<img src = "images/russ_poldrack.jpg" id="russ-poldrack" alt = "A portrait photo of Russ Poldrack">
 <p class="caption">
 (image copyright user:VieveTru; CC-BY-SA <a href="https://en.wikipedia.org/wiki/Russell_Poldrack#/media/File:RussPoldrack.jpg">src</a> )
 </p>
