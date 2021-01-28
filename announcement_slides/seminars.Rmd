@@ -1,5 +1,5 @@
 ---
-title: "Rigor and Reproducibility Seminar Series"
+title: "Rigor and Reproducibility Seminar Series (Spring 2021)"
 subtitle: "UF Interdisciplinary T32 in Movement Disorders and Neurorestoration"
 output:
   xaringan::moon_reader:
@@ -37,6 +37,14 @@ style_duo_accent(
   )
 )
 ```
+
+# About
+
+This Spring 2021 seminar series is jointly hosted by the [UF Movement Disorders and Neurorestoration Program](https://movementdisorders.ufhealth.org/) and the [UF Health Science Center Libraries](https://library.health.ufl.edu/). Talks focus on rigor and reproducibility topics for the [pre-doctoral training program](https://movementdisorders.ufhealth.org/training/ninds-t32-pre-doctoral-training-program-in-movement-disorders/).
+
+This program and seminar series is funded by the National Institute of Neurological Disorders and Stroke (NINDS) through [T32 NS082128](https://grantome.com/grant/NIH/T32-NS082168-05), awarded to PIs Dawn Bowers (College of PHHP) and David E. Vaillancourt (College of HHP).
+
+---
 class: split-33
 
 .column.bg-main1[.content.vmiddle.center[
