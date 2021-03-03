@@ -88,7 +88,7 @@ class: split-33
 
 .column.bg-main2[.content.vmiddle[
 ### Friday, March 12 2021, 0900am ET
-## Translational research – Lost in the garden of the forking paths
+## Translational research – Lost in the garden of forking paths
 ### Ulrich Dirnagl
 #### Director, Department of Experimental Neurology, Charité Universitätsmedizin Berlin
 #### Founding Director, BIG Quest Center for Transforming Biomedical Research
