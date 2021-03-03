@@ -83,7 +83,7 @@ class: split-33
 class: split-33
 
 .column.bg-main1[.content.vmiddle.center[
-![](images/ulrich_dirnagl.jpg)
+![](images/ulrich_dirnagl_portrait.jpg)
 ]]
 
 .column.bg-main2[.content.vmiddle[
