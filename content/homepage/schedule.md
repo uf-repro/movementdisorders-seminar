@@ -10,19 +10,6 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 
 ## Calendar
 
-<!--
-||<th colspan=3>Talk Title</th>|
-||Date & Time|Speaker|Event Link|
-|--|--|--|--|
-|<td colspan=3>Why & how to embrace Open Science</td>
-||[2021-01-15 0900 ET](https://arewemeetingyet.com/New%20York/2021-01-15/09:00)| Emily Sena| [link]()|
-||2021-02-12 0900 ET| Kirstie Whitaker| [The Turing Way: Empower researchers in reproducible, ethical, inclusive and collaborative science]()|
-||2021-03-12 0900 ET | Ulrich Dirnagl| [TBD]()|
-||2021-04-09 0900 ET | Malcolm Macleod| [TBD]()|
-||2021-06-11 Time TBD| Maryann Martone| [TBD]()|
-||2021-09-24 Time TBD| Russ Poldrack| [TBD]()|
--->
-
 <table>
 <thead>
 <tr>
@@ -72,7 +59,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>Using data to drive research improvement</em>
 </center></td>
 </tr>
 <tr>
