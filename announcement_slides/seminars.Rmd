@@ -93,6 +93,9 @@ class: split-33
 #### Director, Department of Experimental Neurology, Charité Universitätsmedizin Berlin
 #### Founding Director, BIG Quest Center for Transforming Biomedical Research
 
+#### * [link to recording](https://ufl.zoom.us/rec/share/pyRnKVO8uejbzzIy6tsddkequv0UiUGrQ-_Eh6ySHTF4KLUGZ1Wcfe2qD42yQG0.pWQzNKarcir4b75-)
+#### * [link to notes](https://docs.google.com/document/d/1p35hA6FScIUo_GfWuw0USiaQ77Z9T4fgeHtwf3bsRT0/edit?usp=sharing)
+
 ]]
 ---
 class: split-33
