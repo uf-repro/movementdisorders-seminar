@@ -59,7 +59,7 @@ Maryann Martone received her BA from Wellesley College in Biological Psychology 
 
 #### Jennifer Manly
 ##### Professor of Neuropsychology in Neurology, Columbia University
-#### Gertrude H. Sergievsky Center and the Taub Institute for Research in Aging and Alzheimer’s disease
+##### Gertrude H. Sergievsky Center and the Taub Institute for Research in Aging and Alzheimer’s disease
 
 Dr. Jennifer Manly is a Professor of Neuropsychology in Neurology at the Taub Institute for Research in Alzheimer’s Disease and the Aging Brain at Columbia University. Her research focuses on mechanisms of disparities in cognitive aging and dementia. In order to do this research, her research team has partnered with the Black and Latinx communities around Columbia University and around the country to design and carry out investigations of social factors across the lifecourse, such as educational opportunities, racism and discrimination, and socioeconomic status, and how these factors relate to cognition and brain health later in life. Dr. Manly was awarded the Early Career Award from Division 40 of the American Psychological Association in 2002, elected Fellow of APA in 2004, and received the 2020 Paul Satz INS Mentoring Award.  She served on the US Department of Health and Human Services Advisory Council on Alzheimer's Research, Care and Services from 2011 – 2015 and is a member of the National Advisory Council on Aging.
 
