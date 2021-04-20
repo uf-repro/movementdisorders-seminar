@@ -130,6 +130,21 @@ class: split-33
 class: split-33
 
 .column.bg-main1[.content.vmiddle.center[
+![](images/jennifer_manly.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Friday, June 18 2021, 0900am ET
+## Centering Contextual Factors to Advance the Science of Aging/Dementia
+### Jennifer Manly
+#### Professor of Neuropsychology in Neurology, Columbia University
+#### Gertrude H. Sergievsky Center and the Taub Institute for Research in Aging and Alzheimer’s disease
+
+]]
+---
+class: split-33
+
+.column.bg-main1[.content.vmiddle.center[
 ![](images/russ_poldrack.jpg)
 ]]
 

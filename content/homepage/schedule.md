@@ -73,6 +73,16 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </center></td>
 </tr>
 <tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2021-06-18/09:00">2021-06-18 0900 ET</a></td>
+<td><a href="#jennifer-manly">Jennifer Manly</a></td>
+<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-06-18_Jennifer-Manly-seminar">register here</a></td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Centering Contextual Factors to Advance the Science of Aging/Dementia</em>
+</center></td>
+</tr>
+<tr>
 <td>2021-09-24</td>
 <td><a href="#russ-poldrack">Russ Poldrack</a></td>
 <td><a href="">TBD</a></td>
