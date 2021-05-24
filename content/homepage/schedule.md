@@ -63,9 +63,9 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </center></td>
 </tr>
 <tr>
-<td>2021-06-11</td>
+<td><a href="https://arewemeetingyet.com/New%20York/2021-06-11/09:00">2021-06-11 0900 ET</td>
 <td><a href="#maryann-martone">Maryann Martone</a></td>
-<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-06-18_Maryann-Martone-seminar">register here</a></td>
+<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-06-11_Maryann-Martone-seminar">register here</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
