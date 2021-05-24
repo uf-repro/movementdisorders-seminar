@@ -65,11 +65,11 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td>2021-06-11</td>
 <td><a href="#maryann-martone">Maryann Martone</a></td>
-<td><a href="">TBD</a></td>
+<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-06-18_Maryann-Martone-seminar">register here</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>Open and FAIR Neuroscience</em>
 </center></td>
 </tr>
 <tr>
