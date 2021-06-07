@@ -12,7 +12,7 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "Rigor and Reproducibility Seminar Series - UF Center for Movement Disorders and Neurorestoration"
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "(^|/)renv$", "renv\\.lock$"]
 
 [markup]
   [markup.goldmark]
@@ -47,3 +47,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
     [params.meta]
         keywords = "rigor, reproducibility, UF, UFL, movement disorders, neurorestoration, seminar, research"
+

@@ -39,15 +39,10 @@
     },
     "blogdown": {
       "Package": "blogdown",
-      "Version": "0.21.50",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteUsername": "rstudio",
-      "RemoteRepo": "blogdown",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "6106bcd0365456287633379fe9edc0eaa7fdf0bb",
-      "RemoteHost": "api.github.com",
-      "Hash": "2624f55137af9bee0f1824466d1fb0cf"
+      "Version": "1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dc232d89c6552820c03a71a7e094c7f2"
     },
     "bookdown": {
       "Package": "bookdown",
@@ -177,17 +172,17 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.5",
+      "Version": "2.8",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "20a0a94af9e8f7040510447763aab3e9"
+      "Hash": "f518ba47713f92d0d603eec7c6888faf"
     },
     "servr": {
       "Package": "servr",
-      "Version": "0.20",
+      "Version": "0.22",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "c98fc352524de67e12886775ba99081f"
+      "Hash": "8cfe5c1d3a8c8304496ba3034e080405"
     },
     "stringi": {
       "Package": "stringi",
@@ -205,10 +200,10 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.27",
+      "Version": "0.32",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "264b4a31d35bb6833566a7763356ab63"
+      "Hash": "db9a6f2cf147751322d22c9f6647c7bd"
     },
     "whisker": {
       "Package": "whisker",
@@ -233,10 +228,10 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.19",
+      "Version": "0.23",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "a42372606cb76f34da9d090326e9f955"
+      "Hash": "791a57f43c887111490851dcd166d344"
     },
     "yaml": {
       "Package": "yaml",
