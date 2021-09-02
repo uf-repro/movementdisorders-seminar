@@ -75,7 +75,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-06-18/09:00">2021-06-18 0900 ET</a></td>
 <td><a href="#jennifer-manly">Jennifer Manly</a></td>
-<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-06-18_Jennifer-Manly-seminar">register here</a></td>
+<td><a href="https://ufl.zoom.us/rec/share/sJAQkd9zirLzjTKUttGYWBvzOjZlXB_nUq47BnW-zsEk_wug8Ddr1Q0wwQhGpfyi.yJ1LBved3dKLcbwC">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
