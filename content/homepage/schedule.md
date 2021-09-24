@@ -85,7 +85,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-09-24/10:00">2021-09-24 1000 ET</a></td>
 <td><a href="#russ-poldrack">Russ Poldrack</a></td>
-<td><a href="https://ufl.libcal.com/calendar/HSCLWorkshops/2021-09-24_Russ-Poldrack-seminar">register here</a></td>
+<td><a href="https://ufl.zoom.us/rec/share/PFgbZhuJ8NCZ3B0EjQzO3E1xRXsegB2QCMujo9RtsgW2eMNG0whKFAClJTPQ6Kg.YnDuWEylZzdZF4P7">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
