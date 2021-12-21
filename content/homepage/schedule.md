@@ -24,7 +24,18 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
-<td>TBD</td>
+<td>2022-02-11</td>
+<td><a href="#lenny-teytelman">Lenny Teytelman</a></td>
+<td>Registration TBD</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>TBD</em>
+</center></td>
+</tr>
+
+<tr>
+<td>Summer 2022</td>
 <td><a href="#camille-maumet">Camille Maumet</a></td>
 <td>Registration TBD</td>
 </tr>

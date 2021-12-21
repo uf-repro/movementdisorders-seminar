@@ -4,6 +4,13 @@ weight: 3
 header_menu: true
 ---
 
+<img src = "images/lenny-teytelman.jpg" id="lenny-teytelman" alt = "A portrait photo of Lenny Teytelman">
+
+#### Lenny Teytelman
+##### Co-founder & CEO, protocols.io
+
+---
+
 <img src = "images/camille_maumet.jpg" id="camille-maumet" alt = "A portrait photo of Camille Maumet">
 
 #### Camille Maumet
