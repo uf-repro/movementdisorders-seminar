@@ -48,7 +48,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-09-24/10:00">2021-09-24 1000 ET</a></td>
 <td><a href="#russ-poldrack">Russ Poldrack</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/PFgbZhuJ8NCZ3B0EjQzO3E1xRXsegB2QCMujo9RtsgW2eMNG0whKFAClJTPQ6Kg.YnDuWEylZzdZF4P7">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/b26b123b082e4adba367b8f2b91ce34a1d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -59,7 +59,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-06-18/09:00">2021-06-18 0900 ET</a></td>
 <td><a href="#jennifer-manly">Jennifer Manly</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/sJAQkd9zirLzjTKUttGYWBvzOjZlXB_nUq47BnW-zsEk_wug8Ddr1Q0wwQhGpfyi.yJ1LBved3dKLcbwC">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/27427584737246908bbb621969853a3d1d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -70,7 +70,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-06-11/09:00">2021-06-11 0900 ET</td>
 <td><a href="#maryann-martone">Maryann Martone</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/ROnWn740zGgF3miE130be_i-n_4MurallzzUMNRDZD6ZU3cj55RAP32eR4fIAUr0.UOOG-k6gegFJuejQ">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/55f89b9cdaf54eb1936ceb6588a996a01d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -81,7 +81,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-04-09/09:00">2021-04-09 0900 ET</a></td>
 <td><a href="#malcolm-macleod">Malcolm Macleod</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/gWhZTgXFLQwdRvi9i6Dy-3jfIwsDvm6owgsN_H3Aut9crR4rnu5in4Pon_p3CJ1z.5DfAFnA158cD_iRt">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/6094467bb2bb48ef9cd8d53d2f6cd96d1d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -92,7 +92,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-03-12/09:00">2021-03-12 0900 ET</a></td>
 <td><a href="#ulrich-dirnagl">Ulrich Dirnagl</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/pyRnKVO8uejbzzIy6tsddkequv0UiUGrQ-_Eh6ySHTF4KLUGZ1Wcfe2qD42yQG0.pWQzNKarcir4b75-">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/6fb547f4ae944a42bff18f7ca39d76b51d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -103,7 +103,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-02-12/09:00">2021-02-12 0900 ET</a></td>
 <td><a href="#kirstie-whitaker">Kirstie Whitaker</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/Ui9iA9-Lm5cuVIo1I0mDLNlTgtTqAJBE9LBEEO9nmsS_Bq1uFbjW_r9kYJrF0TR_.K1UvoXiXG-hLCRmE">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/3e54dd300c334ae69bd40c4d062f57191d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
@@ -114,7 +114,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2021-01-15/09:00">2021-01-15 0900 ET</a></td>
 <td><a href="#emily-sena">Emily Sena</a></td>
-<td><a href="https://ufl.zoom.us/rec/share/C5q1CQc_yJh1yj3IEsj5hjbOMJ3SASjeLBhhNS7ZlaqZNb5qv-9ArjAi053SHbj7.hj0OP5AT9ppvtDGh">link to recording</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/3d871c3595474e42abe07904ea7bc4c61d">link to recording</a></td>
 </tr>
 <tr>
 <td colspan=3><center>
