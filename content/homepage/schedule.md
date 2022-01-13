@@ -24,13 +24,13 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
-<td>2022-02-11</td>
+<td><a href="https://arewemeetingyet.com/New%20York/2022-02-11/11:00">2022-02-11 1100 ET</a></td>
 <td><a href="#lenny-teytelman">Lenny Teytelman</a></td>
 <td>Registration TBD</td>
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>For reproducibility, we need the methods behind the data</em>
 </center></td>
 </tr>
 

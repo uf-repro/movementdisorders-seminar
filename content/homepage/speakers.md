@@ -4,10 +4,12 @@ weight: 3
 header_menu: true
 ---
 
-<img src = "images/lenny-teytelman.jpg" id="lenny-teytelman" alt = "A portrait photo of Lenny Teytelman">
+<img src = "images/lenny_teytelman.jpg" id="lenny-teytelman" alt = "A portrait photo of Lenny Teytelman">
 
 #### Lenny Teytelman
 ##### Co-founder & CEO, protocols.io
+
+Lenny has over a decade of computational and experimental biology experience. He did his graduate studies at UC Berkeley, and it was his struggle with correcting a published research method as a postdoc at MIT that led him to cofound protocols.io. Lenny brings to protocols.io a strong passion for open access, sharing knowledge, and improving research efficiency through technology.
 
 ---
 
