@@ -168,3 +168,19 @@ class: split-33
 #### * [link to notes](https://docs.google.com/document/d/19CbodXdu9yJUJuLtoYFIzqV0k0NkkEIxd5piMYrrdfw/edit?usp=sharing)
 
 ]]
+
+---
+class: split-33
+
+.column.bg-main1[.content.vmiddle.center[
+![](images/lenny_teytelman.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Friday, February 11 2022, 1100 ET
+## For reproducibility, we need the methods behind the data
+### Lenny Teytelman
+#### Co-founder & CEO, protocols.io
+
+]]
+
