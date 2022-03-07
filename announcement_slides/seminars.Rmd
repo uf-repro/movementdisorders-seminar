@@ -10,6 +10,13 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+knit: (function(input, ...) {
+    rmarkdown::render(
+      input,
+      envir = globalenv()
+    );
+    file.copy("seminars.html", here::here("content/seminars.html"))
+  })
 ---
 
 ```{r setup, include=FALSE}
@@ -182,7 +189,7 @@ class: split-33
 ### Lenny Teytelman
 #### Co-founder & CEO, protocols.io
 
-#### * [link to recording](https://ufl.zoom.us/rec/share/cMoA6qLUIpVRcolimhDh-PN2VS6_gmz4rWufHYqHfi27UWUloY2-djaVr3Z0h3PQ.SUeefBsGTW_IxQ8F)
+#### * [link to recording](https://mediasite.video.ufl.edu/Mediasite/Play/b98b23612a6a412682b7c28a2ca37e5d1d)
 #### * [link to notes](https://docs.google.com/document/d/1Lb58re8hqh0Kwm5b6kabg3Hag9uM6eREDLCRFURt070/edit?usp=sharing)
 
 ]]
