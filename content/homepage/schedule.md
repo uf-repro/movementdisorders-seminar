@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-Seminars will generally take place at *0900 am ET* on the second Friday every month, starting in January 2021. To register, please use the links in the schedule below, after which you will receive information about joining the zoom meeting and participating in Q&A discussions.
+Seminars will generally take place at *0900 am ET* on the second Friday every month. To register, please use the links in the schedule below, after which you will receive information about joining the zoom meeting and participating in Q&A discussions.
 
 ---
 
@@ -24,6 +24,18 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2022-07-07/09:00">2022-07-07 0900 ET</a></td>
+<td><a href="#camille-maumet">Camille Maumet</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/2022-07-07_Camille-Maumet-seminar">Registration</a>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>TBD</em>
+</center></td>
+</tr>
+
+<tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2022-02-11/11:00">2022-02-11 1100 ET</a></td>
 <td><a href="#lenny-teytelman">Lenny Teytelman</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/b98b23612a6a412682b7c28a2ca37e5d1d">link to recording</a></td>
@@ -31,17 +43,6 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td colspan=3><center>
 <em>For reproducibility, we need the methods behind the data</em>
-</center></td>
-</tr>
-
-<tr>
-<td>Summer 2022</td>
-<td><a href="#camille-maumet">Camille Maumet</a></td>
-<td>Registration TBD</td>
-</tr>
-<tr>
-<td colspan=3><center>
-<em>TBD</em>
 </center></td>
 </tr>
 
