@@ -9,6 +9,8 @@ header_menu: true
 #### Camille Maumet
 ##### Research Scientist, Inria, Univ Rennes, CNRS, Inserm
 
+Dr. Camille Maumet is a research scientist in neuroinformatics at Inria, Univ Rennes, CNRS, Inserm in Rennes, France. Her research focuses on the variability of analytical pipelines and its impact on our ability to reuse brain imaging datasets. She obtained her PhD in computer science at the University of Rennes on the analyses of clinical neuroimaging datasets in functional magnetic resonance imaging and arterial spin labelling. She was then a postdoctoral research fellow in the Institute of Digital Healthcare at the University of Warwick and the University of Oxford, where she focused on meta-analyses and standards for neuroimaging data sharing. She is also an open science advocate, involved in the development of more inclusive research practices and community-led research and participates in many collaborative efforts including Brainhack, the INCF, and the Open Science Special Interest Group of the Organization for Human Brain Mapping that she chaired in 2020.
+
 ---
 
 <img src = "images/lenny_teytelman.jpg" id="lenny-teytelman" alt = "A portrait photo of Lenny Teytelman">
