@@ -31,7 +31,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=3><center>
-<em>TBD</em>
+<em>Open science: A journey from sharing research artefacts to collaborative research</em>
 </center></td>
 </tr>
 
