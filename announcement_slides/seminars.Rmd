@@ -194,3 +194,20 @@ class: split-33
 
 ]]
 
+---
+class: split-50
+
+.column.bg-main1[.content.vmiddle.center[
+![](images/camille_maumet.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Friday, July 7 2022, 0900 ET
+## Open science: A journey from sharing research artefacts to collaborative research
+### Camille Maumet
+#### Research Scientist, Inria, Univ Rennes, CNRS, Inserm
+
+#### * [link to recording]()
+#### * [link to notes]()
+
+]]
