@@ -35,10 +35,10 @@
     },
     "blogdown": {
       "Package": "blogdown",
-      "Version": "1.5",
+      "Version": "1.10",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "573a81bab1652544c2673e48486cc51f",
+      "Hash": "9bfc1d1bb9833d946d66b7207dff3cc6",
       "Requirements": [
         "bookdown",
         "htmltools",

@@ -24,6 +24,32 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
+<td>Fall 2022</td>
+<td><a href="#iratxe-puebla">Iratxe Puebla</a></td>
+<td>recording TBD</td>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Title TBD</em>
+</center></td>
+</tr>
+
+<!--
+<tr>
+<td>Spring 2023</td>
+<td><a href="#jason-williams">Jason Williams</a></td>
+<td>recording TBD</td>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Title TBDh</em>
+</center></td>
+</tr>
+-->
+
+<tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2022-07-07/09:00">2022-07-07 0900 ET</a></td>
 <td><a href="#camille-maumet">Camille Maumet</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/4f328ccc687840dc9b2f91c416ce9ba51d">link to recording</a></td>
