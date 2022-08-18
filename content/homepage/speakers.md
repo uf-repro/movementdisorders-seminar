@@ -4,6 +4,18 @@ weight: 3
 header_menu: true
 ---
 
+{{photo TBD}}
+#### Iratxe Puebla
+##### Director of Strategic Initiatives & Community for ASAPbio
+##### Facilitation and Integrity Officer, Committee on Publiction Ethics
+##### Co-Lead, FORCE11 Research Data Publishing Ethics Working Group
+
+{{photo TBD}}
+#### Jason Williams
+##### Assistant Director, Inclusion and Research Readiness, Cold Spring Harbor Laboratory DNA Learning Center
+
+{{bio TBD}}
+
 <img src = "images/camille_maumet.jpg" id="camille-maumet" alt = "A portrait photo of Camille Maumet">
 
 #### Camille Maumet
