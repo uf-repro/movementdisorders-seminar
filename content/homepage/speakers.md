@@ -4,11 +4,15 @@ weight: 3
 header_menu: true
 ---
 
-{{photo TBD}}
+<img src = "images/iratxe-puebla.jpg" id="iratxe-puebla" alt = "A portrait photo of Iratxe Puebla">
+
 #### Iratxe Puebla
 ##### Director of Strategic Initiatives & Community for ASAPbio
 ##### Facilitation and Integrity Officer, Committee on Publiction Ethics
 ##### Co-Lead, FORCE11 Research Data Publishing Ethics Working Group
+
+Iratxe Puebla is the Director of Strategic Initiatives & Community at ASAPbio, where she works to drive initiatives that promote a productive use of preprints in the life sciences and greater transparency in peer review. Prior to this role, Iratxe worked as an editor for different open-access journals and served as Deputy Editor-in-Chief at the journal  PLOS ONE, where she was actively involved in editorial policy development and publication ethics. Iratxe is also the Facilitation and Integrity Officer for the Committee on Publication Ethics (COPE), a member of the Board of Directors for the data repository Dryad and co-lead for the FORCE11 Research Data Publishing Ethics Working Group.
+
 
 {{photo TBD}}
 #### Jason Williams

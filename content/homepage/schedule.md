@@ -26,12 +26,12 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2022-11-04/09:00">2022-11-04 0900 ET</a></td>
 <td><a href="#iratxe-puebla">Iratxe Puebla</a></td>
-<td>recording TBD</td>
+<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/2022-11-04_Iratxe-Puebla-seminar">Register now</a></td>
 </td>
 </tr>
 <tr>
 <td colspan=3><center>
-<em>Title TBD</em>
+<em>Looking beyond the article: why research integrity needs open science</em>
 </center></td>
 </tr>
 
