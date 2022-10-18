@@ -195,7 +195,7 @@ class: split-33
 ]]
 
 ---
-class: split-50
+class: split-33
 
 .column.bg-main1[.content.vmiddle.center[
 ![](images/camille_maumet.jpg)
@@ -213,7 +213,7 @@ class: split-50
 ]]
 
 ---
-class: split-50
+class: split-33
 
 .column.bg-main1[.content.vmiddle.center[
 ![](images/iratxe_puebla.jpg)
