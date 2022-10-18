@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-<img src = "images/iratxe-puebla.jpg" id="iratxe-puebla" alt = "A portrait photo of Iratxe Puebla">
+<img src = "images/iratxe_puebla.jpg" id="iratxe-puebla" alt = "A portrait photo of Iratxe Puebla">
 
 #### Iratxe Puebla
 ##### Director of Strategic Initiatives & Community for ASAPbio
