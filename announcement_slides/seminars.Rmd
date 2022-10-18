@@ -211,3 +211,22 @@ class: split-50
 #### * [link to notes](https://docs.google.com/document/d/1DSo4K-RR3o9OL1c5530hZivFu3BRPC_88U21SMcLOuc/edit?usp=sharing)
 
 ]]
+
+---
+class: split-50
+
+.column.bg-main1[.content.vmiddle.center[
+![](images/iratxe_puebla.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Friday, November 4 2022, 0900 ET
+## Looking beyond the article: why research integrity needs open science
+### Iratxe Puebla
+#### Director of Strategic Initiatives & Community for ASAPbio
+
+<!--
+#### * [link to recording]()
+#### * [link to notes]()
+-->
+]]
