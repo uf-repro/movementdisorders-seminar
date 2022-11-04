@@ -225,8 +225,7 @@ class: split-33
 ### Iratxe Puebla
 #### Director of Strategic Initiatives & Community for ASAPbio
 
-<!--
-#### * [link to recording]()
-#### * [link to notes]()
--->
+#### * [link to recording](https://mediasite.video.ufl.edu/Mediasite/Play/a91851661ffe4e2dae2859890ffdb1681d)
+#### * [link to notes](https://docs.google.com/document/d/12jL-9TjMOhhxRqQ7WnPhgc45oKFgqC_s_rA_9yzX0uA/edit?usp=sharing)
+
 ]]
