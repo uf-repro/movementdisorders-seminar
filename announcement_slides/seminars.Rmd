@@ -229,3 +229,23 @@ class: split-33
 #### * [link to notes](https://docs.google.com/document/d/12jL-9TjMOhhxRqQ7WnPhgc45oKFgqC_s_rA_9yzX0uA/edit?usp=sharing)
 
 ]]
+
+---
+class: split-33
+
+.column.bg-main1[.content.vmiddle.center[
+![](images/jason-williams.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Friday, February 10 2023, 0900 ET
+## Training and Re-training in Open and Reproducible Research
+### Jason Williams
+#### Assistant Director, Inclusion and Research Readiness, Cold Spring Harbor Laboratory DNA Learning Center
+
+<!--
+#### * [link to recording]()
+#### * [link to notes]()
+-->
+
+]]

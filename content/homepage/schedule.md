@@ -26,12 +26,12 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-02-10/09:00">2023-02-10 0900 ET</a></td>
 <td><a href="#jason-williams">Jason Williams</a></td>
-<td>recording TBD</td>
+<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/2023-02-10_Jason-Williams-seminar">Register now</a></td>
 </td>
 </tr>
 <tr>
 <td colspan=3><center>
-<em>Title TBD</em>
+<em>Training and Re-training in Open and Reproducible Research</em>
 </center></td>
 </tr>
 

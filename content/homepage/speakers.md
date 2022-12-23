@@ -4,6 +4,13 @@ weight: 3
 header_menu: true
 ---
 
+<img src = "images/jason_williams.jpg" id="jason-williams" alt = "A portrait photo of Jason Williams">
+
+#### Jason Williams
+##### Assistant Director, Inclusion and Research Readiness, Cold Spring Harbor Laboratory DNA Learning Center
+
+Jason Williams is Assistant Director, Diversity and Research Readiness at the Cold Spring Harbor Laboratory DNA Learning Center where he develops national biology education programs. Jason leads education, outreach, and training for CyVerse (US national cyberinfrastructure for the life sciences) and has trained thousands of students, researchers and educators in bioinformatics, data science, and molecular biology. Jason’s focus has been developing bioinformatics in undergraduate education and career-spanning learning for biologists. Jason is founder of LifeSciTrainers.org – a global effort to promote community of practice among professionals who develop short-format training for life scientists. Jason is advisory to cyberinfrastructure, bioinformatics, and education projects and initiatives in the US, UK, Europe, and Australia. He is also a teacher at the Yeshiva University High School for Girls.
+
 <img src = "images/iratxe_puebla.jpg" id="iratxe-puebla" alt = "A portrait photo of Iratxe Puebla">
 
 #### Iratxe Puebla
@@ -12,13 +19,6 @@ header_menu: true
 ##### Co-Lead, FORCE11 Research Data Publishing Ethics Working Group
 
 Iratxe Puebla is the Director of Strategic Initiatives & Community at ASAPbio, where she works to drive initiatives that promote a productive use of preprints in the life sciences and greater transparency in peer review. Prior to this role, Iratxe worked as an editor for different open-access journals and served as Deputy Editor-in-Chief at the journal  PLOS ONE, where she was actively involved in editorial policy development and publication ethics. Iratxe is also the Facilitation and Integrity Officer for the Committee on Publication Ethics (COPE), a member of the Board of Directors for the data repository Dryad and co-lead for the FORCE11 Research Data Publishing Ethics Working Group.
-
-
-{{photo TBD}}
-#### Jason Williams
-##### Assistant Director, Inclusion and Research Readiness, Cold Spring Harbor Laboratory DNA Learning Center
-
-{{bio TBD}}
 
 <img src = "images/camille_maumet.jpg" id="camille-maumet" alt = "A portrait photo of Camille Maumet">
 
