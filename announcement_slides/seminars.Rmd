@@ -234,7 +234,7 @@ class: split-33
 class: split-33
 
 .column.bg-main1[.content.vmiddle.center[
-![](images/jason-williams.jpg)
+![](images/jason_williams.jpg)
 ]]
 
 .column.bg-main2[.content.vmiddle[
