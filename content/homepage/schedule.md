@@ -26,7 +26,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-02-10/09:00">2023-02-10 0900 ET</a></td>
 <td><a href="#jason-williams">Jason Williams</a></td>
-<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/2023-02-10_Jason-Williams-seminar">Register now</a></td>
+<td><a href=https://mediasite.video.ufl.edu/Mediasite/Play/1ec7494ea70b4859bb4afa0a875abc731d">link to recording</a></td>
 </td>
 </tr>
 <tr>

@@ -243,9 +243,7 @@ class: split-33
 ### Jason Williams
 #### Assistant Director, Inclusion and Research Readiness, Cold Spring Harbor Laboratory DNA Learning Center
 
-<!--
-#### * [link to recording]()
-#### * [link to notes]()
--->
+#### * [link to recording](https://mediasite.video.ufl.edu/Mediasite/Play/1ec7494ea70b4859bb4afa0a875abc731d)
+#### * [link to notes](https://docs.google.com/document/d/1UJsELj3yewG1iCC07mjol6yuLQ9XIxyjAPWIFTay4K4/edit?usp=sharing)
 
 ]]
