@@ -4,6 +4,16 @@ weight: 3
 header_menu: true
 ---
 
+<img src = "images/anita_bandrowski.jpg" id="anita-bandrowski" alt = "A portrait photo of Anita Bandrowski">
+
+#### Anita Bandrowski
+##### Specialist, Department of Neurosciences, University of California San Diego
+##### Founder and CEO, SciCrunch
+##### Co-Founder and lead, RRID Initiative
+##### Berlin Institute of Health Visiting Professor, funded by Stiftung Charité
+
+Dr Bandrowski trained as a bench neurophysiologist, working to elucidate physiological mechanisms of learning and epilepsy. However, soon after postdoc, Dr. Bandrowski began to work in data, starting with the annotation of the human genome for Celera Inc. Dr. Bandrowski moved to neuroinformatics with the award of the Neuroscience Information Framework by the NIH's Blueprint for Neuroscience. The goal of this project was to create a comprehensive list of databases for neuroscience, and led to the most comprehensive search system for neuroscience data on the web. Since then, Dr. Bandrowski's role moved to creating data structures that are accessible to multiple systems, or FAIR (findable, accessible, interoperable, and reusable); leading interdisciplinary teams to create community standards, and structuring data into formats that are accessible to artificial intelligence systems. Dr. Bandrowski also serves as the lead for the Research Resource Identification (RRID) Initiative. RRIDs are unique identifiers for Key Biological Resources, aggregated by our group from community databases and requested from authors in participating journals.
+
 <img src = "images/jason_williams.jpg" id="jason-williams" alt = "A portrait photo of Jason Williams">
 
 #### Jason Williams

@@ -24,6 +24,18 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2023-06-09/12:00">2023-06-09 1200 ET</a></td>
+<td><a href="#anita-bandrowski">Anita Bandrowski</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/2023-06-09_Anita-Bandrowski-seminar">Register for this talk</a></td>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Practical reproducibility: a few steps that will make your paper better</em>
+</center></td>
+</tr>
+
+<tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-02-10/09:00">2023-02-10 0900 ET</a></td>
 <td><a href="#jason-williams">Jason Williams</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/1ec7494ea70b4859bb4afa0a875abc731d">link to recording</a></td>
