@@ -26,7 +26,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-06-09/12:00">2023-06-09 1200 ET</a></td>
 <td><a href="#anita-bandrowski">Anita Bandrowski</a></td>
-<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/2023-06-09_Anita-Bandrowski-seminar">Register for this talk</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/60102ce5d65a421ba987a92a3d61e5a31d">link to recording</a></td>
 </td>
 </tr>
 <tr>
