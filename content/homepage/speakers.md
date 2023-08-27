@@ -4,6 +4,13 @@ weight: 3
 header_menu: true
 ---
 
+<img src = "images/lu_he.jpg" id="lu-he" alt = "A portrait photo of Lu He">
+
+#### Lu He
+##### Assistant Professor of Health Informatics, Zilber College of Public Health at the University of Wisconsin-Milwaukee
+
+Dr. Lu He earned her PhD in Informatics from the University of California, Irvine (UCI) in 2023 and a Bachelor of Science with Distinction in Computer Science from the University of Minnesota, Twin Cities in 2017. Her research interests lie at the intersection of health informatics, data science, and Human-Computer Interaction (HCI). She is passionate about developing and applying computational methods including Natural Language Processing (NLP) on various health-related data, including social media data, Electronic Health Records (EHR), and clinical notes. Her work has been published in top health informatics and HCI journals and conferences, including the Journal of American Medical Informatics Association (JAMIA), the Journal of Biomedical Informatics (JBI), the ACM Conference on Human Factors in Computing Systems (CHI), and Computer-Supported Cooperative Work (CSCW). Her research has also been recognized with 4 best student paper nominations, in addition to the Editor’s Choice and Featured Article recognition of a paper published at JAMIA in 2021. Her dissertation work is supported by the prestigious Graduate Dean’s Dissertation Fellowship at UCI. She is an active member in the community, serving on the Student Editorial Board for JAMIA and as a reviewer for health informatics journals, and participating in services such as the Women in AMIA Podcast and JAMIA Journal Clubs.
+
 <img src = "images/anita_bandrowski.jpg" id="anita-bandrowski" alt = "A portrait photo of Anita Bandrowski">
 
 #### Anita Bandrowski

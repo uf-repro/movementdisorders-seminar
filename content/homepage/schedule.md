@@ -23,6 +23,19 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </thead>
 <tbody>
 
+
+<tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2023-10-13/10:00">2023-10-13 1000 ET</a></td>
+<td><a href="#lu-he">Lu He</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/t32_Lu-He">link to register</a></td>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Computational analysis of health text: applications, challenges, and opportunities</em>
+</center></td>
+</tr>
+
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-06-09/12:00">2023-06-09 1200 ET</a></td>
 <td><a href="#anita-bandrowski">Anita Bandrowski</a></td>
@@ -164,5 +177,3 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 
 
 ---
-
-
