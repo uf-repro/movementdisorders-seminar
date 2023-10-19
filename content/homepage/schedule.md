@@ -27,7 +27,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-10-13/10:00">2023-10-13 1000 ET</a></td>
 <td><a href="#lu-he">Lu He</a></td>
-<td><a href="https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops/t32_Lu-He">link to register</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/6db9c1588f6b4a879196386404353b981d">link to recording</a></td>
 </td>
 </tr>
 <tr>
