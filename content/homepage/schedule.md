@@ -23,6 +23,17 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </thead>
 <tbody>
 
+<tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2024-03-29/10:00">2024-03-29 1000 ET</a></td>
+<td><a href="#melissa-rethlefesn">Melissa Rethlefsen</a></td>
+<td><a href="https://mediasite.video.ufl.edu/">link to recording</a></td>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Putting the systematic back into systematic reviews: improving reporting to impact reproducibility</em>
+</center></td>
+</tr>
 
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2023-10-13/10:00">2023-10-13 1000 ET</a></td>
