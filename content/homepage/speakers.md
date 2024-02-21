@@ -10,7 +10,7 @@ header_menu: true
 #### Melissa Rethlefsen
 ##### Professor; Executive Director, University of New Mexico Health Sciences Library and Informatics Center, Albuquerque New Mexico 
 
-Prof Melissa Rethefsen earned her Masters Degree in Library Science from University of North Texas and a Bachelor of Science from University of Minnesota.
+Prof Melissa Rethefsen earned her Masters Degree in Library Science from University of North Texas and a Bachelor of Science from University of Minnesota. She is currently the Executive Director at the Health Sciences Library & Informatics Center at University of New Mexico. She has held several years of library leadership experience. She was previously the Fackler Director and Associate Dean for the  Health Science Center Libraries at University of Florida. Melissa is passionate about reproducibility especially pertaining to systematic search strategies and has developed an extension to the PRISMA Statement devoted to search strategy reporting. As part of her interest in reproducibility, Ms. Rethlefsen led efforts to create a culture of reproducibility at the University of Utah and at the University of Florida. 
 
 <img src = "images/lu_he.jpg" id="lu-he" alt = "A portrait photo of Lu He">
 
