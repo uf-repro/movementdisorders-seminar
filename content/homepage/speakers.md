@@ -1,4 +1,4 @@
-![melissa-rethlefsen](https://github.com/uf-repro/movementdisorders-seminar/assets/49882391/c1ad73dc-3556-4c81-b60a-b683b556c6a6)---
+---
 title: "Speakers"
 weight: 3
 header_menu: true
