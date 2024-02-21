@@ -1,8 +1,16 @@
----
+![melissa-rethlefsen](https://github.com/uf-repro/movementdisorders-seminar/assets/49882391/c1ad73dc-3556-4c81-b60a-b683b556c6a6)---
 title: "Speakers"
 weight: 3
 header_menu: true
 ---
+
+<img src = "images/melissa-rethlefsen.jpg" id="melissa-rethlefsen" alt = "A portrait photo of Melissa Rethlefsen">
+
+
+#### Melissa Rethlefsen
+##### Professor; Executive Director, University of New Mexico Health Sciences Library and Informatics Center, Albuquerque New Mexico 
+
+Prof Melissa Rethefsen earned her Masters Degree in Library Science from University of North Texas and a Bachelor of Science from University of Minnesota.
 
 <img src = "images/lu_he.jpg" id="lu-he" alt = "A portrait photo of Lu He">
 
