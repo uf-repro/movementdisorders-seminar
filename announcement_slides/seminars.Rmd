@@ -284,3 +284,17 @@ class: split-33
 #### Assistant Professor of Health Informatics, Zilber College of Public Health at the University of Wisconsin-Milwaukee
 
 ]]
+
+---
+class: split-33
+
+.column.bg-main1[.content.vmiddle.center[
+![](images/melissa.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Friday, March 29 2024, 1000 ET
+## Putting the systematic back into systematic reviews: improving reporting to impact reproducibility 
+### Prof Melissa Rethlefsen 
+#### Professor; Executive Director, University of New Mexico Health Sciences Library and Informatics Center, Albuquerque New Mexico
+]]
