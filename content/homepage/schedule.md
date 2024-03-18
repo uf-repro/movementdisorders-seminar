@@ -25,7 +25,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2024-03-29/10:00">2024-03-29 1000 ET</a></td>
-<td><a href="#melissa-rethlefesn">Melissa Rethlefsen</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/event/12097293">Melissa Rethlefsen</a></td>
 <td><a href="https://mediasite.video.ufl.edu/">link to recording</a></td>
 </td>
 </tr>
