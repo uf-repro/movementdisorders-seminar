@@ -297,4 +297,7 @@ class: split-33
 ## Putting the systematic back into systematic reviews: improving reporting to impact reproducibility 
 ### Prof Melissa Rethlefsen 
 #### Professor; Executive Director, University of New Mexico Health Sciences Library and Informatics Center, Albuquerque New Mexico
+
+#### * [link to recording](https://mediasite.video.ufl.edu/mediasite/MyMediasite/presentations/ff70a25c7559456aa35dae43a3f5339a1d)
+
 ]]
