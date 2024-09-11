@@ -27,6 +27,10 @@ jobs:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-renv@v2
+      
+      - name: Install Blogdown
+        run: install.packages("blogdown")
+        shell: Rscript {0}
 
       - name: Install hugo
         run: blogdown::install_hugo()
