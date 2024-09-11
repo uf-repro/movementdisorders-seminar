@@ -4,6 +4,16 @@ weight: 3
 header_menu: true
 ---
 
+<img src = "https://williamngiam.github.io/images/ngiam_2023.jpg">
+
+
+#### Dr William Ngiam
+##### Lecturer, School of Psychology, University of Adelaide, Australia
+
+Dr William Ngiam is a Lecturer in the School of Psychology at the University of Adelaide in Australia. His research focuses on visual attention and working memory – how we select and represent information in mind for ongoing perception and cognition – using psychophysical methods, computational modeling, neuroimaging and machine learning. William was recognized as a champion of research rigor by the NINDS Office of Research Quality for his advocacy of early-career researchers in the Open Science movement. He serves on the steering committee of the global ReproducibiliTea network, has contributed to the Framework for Open and Reproducible Research Training (FORRT), and is soon-to-be Open Practices Editor at Attention, Perception, & Psychophysics.
+
+
+
 <img src = "images/melissa-rethlefsen.jpg" id="melissa-rethlefsen" alt = "A portrait photo of Melissa Rethlefsen">
 
 
