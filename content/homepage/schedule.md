@@ -24,6 +24,23 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2024-10-31/09:00">2024-03-29 1000 ET</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/event/13168156">Dr William Ngiam</a></td>
+<td><a href="https://mediasite.video.ufl.edu/">link to recording</a></td>
+</td>
+</tr>
+<tr>
+<td colspan=3><center>
+<em>Empowering early-career researchers to enhance research culture with ReproducibiliTea</em>
+</center></td>
+</tr>
+
+
+
+
+
+
+<tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2024-03-29/10:00">2024-03-29 1000 ET</a></td>
 <td><a href="https://libcal.uflib.ufl.edu/event/12097293">Melissa Rethlefsen</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/ff70a25c7559456aa35dae43a3f5339a1d">link to recording</a></td>
