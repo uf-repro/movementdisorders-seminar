@@ -27,12 +27,11 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <td><a href="https://arewemeetingyet.com/New%20York/2024-10-31/09:00">2024-10-31 0900 ET</a></td>
 <td><a href="https://libcal.uflib.ufl.edu/event/13168156">Dr William Ngiam</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/7b5b1f0c9ac549d49da6e2b9d59f11ca1d/">link to recording</a>
-<td><a href="2024 10 UFlorida Research Rigor Seminar.pptx">link to slides</a>
 </td>
 </td>
 </tr>
 <tr>
-<td colspan=4><center>
+<td colspan=3><center>
 <em>Empowering early-career researchers to enhance research culture with ReproducibiliTea</em>
 </center></td>
 </tr>
