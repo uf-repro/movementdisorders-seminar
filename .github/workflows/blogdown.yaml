@@ -32,8 +32,13 @@ jobs:
         run: install.packages("blogdown")
         shell: Rscript {0}
 
+      - name: Install dependencies
+        run: install.packages(c("remotes", "rmarkdown", "knitr", "xfun"))
+        shell: Rscript {0}
+
+        
       - name: Install hugo
-        run: blogdown::install_hugo()
+        run: blogdown::install_hugo(version = "0.80.0")
         shell: Rscript {0}
 
       - name: Build site
