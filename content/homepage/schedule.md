@@ -32,7 +32,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=4><center>
-<em>Empowering early-career researchers to enhance research culture with ReproducibiliTea</em>
+<em>Data Fabrication</em>
 </center></td>
 </tr>
 
