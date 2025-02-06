@@ -25,7 +25,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2025-02-25/10:00">2025-02-25 1000 ET</a></td>
-<td><a href="https://libcal.uflib.ufl.edu/">Dr Matthew Schrag</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/event/14143299/">Dr Matthew Schrag</a></td>
 <td><a href="https://mediasite.video.ufl.edu/">link to recording</a>
 </td>
 </td>
