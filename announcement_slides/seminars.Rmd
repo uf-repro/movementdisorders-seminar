@@ -320,3 +320,20 @@ class: split-33
 
 ]]
 
+---
+class: split-33
+
+.column.bg-main1[.content.vmiddle.center[
+![](images/drschrag.jpg)
+]]
+
+.column.bg-main2[.content.vmiddle[
+### Thursday, February 25 2025, 1000 ET
+## Data fabrication
+### Dr Matthew Schrag 
+#### MD,PhD, Vanderbuilt School of Medicine
+
+#### * [link to recording](https://mediasite.video.ufl.edu)
+
+]]
+
