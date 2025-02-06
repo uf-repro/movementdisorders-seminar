@@ -4,6 +4,15 @@ weight: 3
 header_menu: true
 ---
 
+<img src = "images/drschrag.jpg">
+
+
+#### Dr Matthew Schrag, PhD
+##### MD, PhD, Vanderbuilt School of Medicine, Nashville, Tennessse
+
+Dr. Schrag is a neurologist who focuses on the overlap between vascular and cognitive neurological diseases. His research focuses on the mechanisms of vascular degeneration in cerebral amyloid angiopathy and how this contributes to cognitive impairment in Alzheimer’s disease.
+
+
 <img src = "https://williamngiam.github.io/images/ngiam_2023.jpg">
 
 
