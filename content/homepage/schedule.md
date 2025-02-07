@@ -32,7 +32,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=4><center>
-<em>Scientific misconduct data and image fabrication</em>
+<em>Research integrity and the quest for a treatment for Alzheimer’s disease.”</em>
 </center></td>
 </tr>
 
