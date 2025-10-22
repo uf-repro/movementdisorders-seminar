@@ -337,3 +337,12 @@ class: split-33
 
 ]]
 
+.column.bg-main2[.content.vmiddle[
+### Thursday, November 6 2025, 0900 ET
+## Developing and enabling cultures of good research practice at University of Oxford
+### Lindsey Spriggs, Mónica Palmero Fernández and Gaurav Bhalerao
+#### University of Oxford, Oxford, England
+
+#### * [link to recording](https://mediasite.video.ufl.edu)
+
+]]
