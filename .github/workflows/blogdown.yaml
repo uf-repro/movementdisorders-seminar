@@ -27,13 +27,16 @@ jobs:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-renv@v2
+        with:
+        r-version: '4.4.0'
+
       
       - name: Install Blogdown
         run: install.packages("blogdown")
         shell: Rscript {0}
 
       - name: Install dependencies
-        run: install.packages(c("remotes", "rmarkdown", "knitr", "xfun","digest"))
+        run: install.packages(c("remotes", "rmarkdown", "knitr", "xfun"))
         shell: Rscript {0}
 
         
