@@ -24,6 +24,21 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2025-11-06/09:00">2025-02-25 1000 ET</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/event/15455814/">Lindsey Spriggs, Monica Fernandez and Gaurav Bhalerao</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/9ec47f4eef53426fa9818df8f46cd8a11d">link to recording</a>
+</td>
+</td>
+</tr>
+<tr>
+<td colspan=4><center>
+<em>Developing and enabling cultures of good research practice at University of Oxford.”</em>
+</center></td>
+</tr>
+
+
+
+<tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2025-02-25/10:00">2025-02-25 1000 ET</a></td>
 <td><a href="https://libcal.uflib.ufl.edu/event/14143299/">Dr Matthew Schrag</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/9ec47f4eef53426fa9818df8f46cd8a11d">link to recording</a>
