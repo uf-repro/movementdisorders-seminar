@@ -5,10 +5,12 @@ header_menu: true
 ---
 <img src = "images/threespeakers.jpg">
 
-#### Lindsey Spriggs, Mónica Palmero Fernández and Gaurav Bhalero
+#### Lindsey Spriggs, Mónica Palmero Fernández and Gaurav Bhalerao
 ##### University of Oxford, Oxford, England
-Lindsey Spriggs is Research Culture Facilitator for the Social Sciences Division at the University of Oxford, where she collaborates with academics, research staff and professional services colleagues to drive positive culture change within the Division and across the research community at Oxford more broadly. Lindsey's work is informed by an MSc in Psychology and Business, her previous role as Early Careers Lead at the interdisciplinary Rosalind Franklin Institute, and 12 years in the academic publishing industry, including almost a decade working on Social Sciences publications for Taylor & Francis. https://socsci.web.ox.ac.uk/people/lindsey-spriggs
+Lindsey Spriggs is Research Culture Facilitator for the Social Sciences Division at the University of Oxford, where she collaborates with academics, research staff and professional services colleagues to drive positive culture change within the Division and across the research community at Oxford more broadly. Lindsey's work is informed by an MSc in Psychology and Business, her previous role as Early Careers Lead at the interdisciplinary Rosalind Franklin Institute, and 12 years in the academic publishing industry, including almost a decade working on Social Sciences publications for Taylor & Francis.https://socsci.web.ox.ac.uk/people/lindsey-spriggs
+
 Mónica Palmero Fernández is Research Practice Coordinator at the University of Oxford. She obtained her PhD in the archaeology of ancient Western Asia from the University of Reading and has held research and teaching posts at the University of Reading and the University of Glasgow. She has focused her professional practice on initiatives that support more inclusive, ethical, and equitable research and teaching cultures in archaeology. In 2023, she joined the University of Oxford’s Research Practice team to help develop a holistic training programme to support fairness, transparency and accountability in the conduct of research.
+
 Gaurav Bhalerao is a Postdoctoral Researcher at the Nuffield Department of Clinical Neurosciences, University of Oxford. His research focuses on brain MRI analysis, statistical modelling, and harmonisation of multisite datasets. He serves on the Steering Committee of the OxCIN Global Scholars Programme and is affiliated with the Oxford University Centre for Integrative Neuroimaging. As a Local Network Lead for the UK Reproducibility Network and Reproducible Research Oxford, Gaurav actively promotes open and reproducible research practices through training, workshops, and community engagement. Links to Gaurav's profile: https://www.ndcn.ox.ac.uk/team/gaurav-bhalerao; https://rr.ox.ac.uk/people/gaurav-bhalerao
 
 
