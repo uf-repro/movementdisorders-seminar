@@ -24,7 +24,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
-<td><a href="https://arewemeetingyet.com/New%20York/2025-11-06/09:00">2025-02-25 1000 ET</a></td>
+<td><a href="https://arewemeetingyet.com/New%20York/2025-11-06/09:00">2025-11-06 0900 ET</a></td>
 <td><a href="https://libcal.uflib.ufl.edu/event/15455814/">Lindsey Spriggs, Monica Fernandez and Gaurav Bhalerao</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/">link to recording</a>
 </td>
