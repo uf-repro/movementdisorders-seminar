@@ -32,7 +32,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=4><center>
-<em>Reimagining peer review through openness, equity, and collaboration.”</em>
+<em>Reimagining peer review through openness, equity, and collaboration.</em>
 </center></td>
 </tr>
 
@@ -45,7 +45,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 </tr>
 <tr>
 <td colspan=4><center>
-<em>Developing and enabling cultures of good research practice at University of Oxford.”</em>
+<em>Developing and enabling cultures of good research practice at University of Oxford.</em>
 </center></td>
 </tr>
 
