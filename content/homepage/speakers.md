@@ -3,6 +3,13 @@ title: "Speakers"
 weight: 3
 header_menu: true
 ---
+
+<img src = "images/danielasaderi.jpg">
+
+#### Daniela Saderi, PhD
+##### Co-founder and Executive Director of PREreview
+Dr. Daniela Saderi is Co-founder and Executive Director of PREreview, a nonprofit that empowers researchers—especially early-career and historically excluded scholars—to engage in open peer review of preprints and, as of recently, datasets. She earned a Ph.D. in neuroscience from Oregon Health & Science University and was a 2018/2019 Mozilla Fellow for Open Science. Daniela envisions a scholarly ecosystem rooted in trust, care, and collective wisdom, where knowledge is nurtured and shared rather than treated as a commodity.
+
 <img src = "images/threespeakers.jpg">
 
 #### Lindsey Spriggs, Mónica Palmero Fernández and Gaurav Bhalerao
