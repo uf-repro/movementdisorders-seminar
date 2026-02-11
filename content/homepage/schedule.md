@@ -24,6 +24,20 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tbody>
 
 <tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2026-04-17/1:00">2026-04-17 0100 ET</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/event/16400196/">Odilia Lu</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/">link to recording</a>
+</td>
+</td>
+</tr>
+<tr>
+<td colspan=4><center>
+<em>A multi-institutional collaborative approach to define psilocybin's robust and replicable effects on mouse behavior.</em>
+</center></td>
+</tr>
+
+
+<tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2026-02-12/12:00">2026-02-12 1200 ET</a></td>
 <td><a href="https://libcal.uflib.ufl.edu/event/15456075/">Daniela Saderi</a></td>
 <td><a href="https://mediasite.video.ufl.edu/Mediasite/">link to recording</a>
