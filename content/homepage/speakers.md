@@ -3,6 +3,11 @@ title: "Speakers"
 weight: 3
 header_menu: true
 ---
+<img src = "images/odilia.jpg">
+
+#### Odilia Lu
+##### PhD candidate, University of California, Berkeley
+Odilia Lu is a PhD candidate at the University of California, Berkeley whose research incorporates approaches to improve rigor and reproducibility in behavioral neuroscience. Motivated by widespread reproducibility issues - particularly in animal behavior research, where methodological variation can strongly influence outcomes - she spearheaded a collaborative research model in which multiple laboratories perform the same experiments to efficiently identify robust and replicable effects. Using this approach, she led a multi-institutional collaboration of 40 scientists across five laboratories to define replicable effects of psilocybin on mouse behaviors relevant to depression, anxiety, and PTSD. In recognition of this work, she received the NINDS Early-Career Rigor Champions Prize.
 
 <img src = "images/danielasaderi.jpg">
 
