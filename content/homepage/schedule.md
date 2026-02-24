@@ -40,7 +40,7 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 <tr>
 <td><a href="https://arewemeetingyet.com/New%20York/2026-02-12/12:00">2026-02-12 1200 ET</a></td>
 <td><a href="https://libcal.uflib.ufl.edu/event/15456075/">Daniela Saderi</a></td>
-<td><a href="ttps://mediasite.video.ufl.edu/Mediasite/Play/4d4e195fe6174643aba0d5b8e38cc69a1d/">link to recording</a>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/Play/4d4e195fe6174643aba0d5b8e38cc69a1d/">link to recording</a>
 </td>
 </td>
 </tr>
