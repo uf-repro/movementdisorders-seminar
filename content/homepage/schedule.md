@@ -9,6 +9,33 @@ Seminars will generally take place at *0900 am ET* on the second Friday every mo
 ---
 
 ## Calendar
+<table>
+<thead>
+<tr>
+<th>Date & Time</th>
+<th>Speaker</th>
+<th>Registration</th>
+</tr>
+<tr>
+<th colspan = 3><center><em>Talk Title</em></center></th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><a href="https://arewemeetingyet.com/New%20York/2026-04-17/1:00">2026-04-17 0100 ET</a></td>
+<td><a href="https://libcal.uflib.ufl.edu/event/16400196/">Odilia Lu</a></td>
+<td><a href="https://mediasite.video.ufl.edu/Mediasite/">link to recording</a>
+</td>
+</td>
+</tr>
+<tr>
+<td colspan=4><center>
+<em>A multi-institutional collaborative approach to define psilocybin's robust and replicable effects on mouse behavior.</em>
+</center></td>
+</tr>
+
+
 
 <table>
 <thead>
