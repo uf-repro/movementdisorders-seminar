@@ -3,6 +3,12 @@ title: "Speakers"
 weight: 3
 header_menu: true
 ---
+<img src = "images/newspeaker.jpg">
+
+#### New Speaker
+##### New speaker designation
+New speaker Bio
+
 <img src = "images/odilia.jpg">
 
 #### Odilia Lu
